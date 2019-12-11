@@ -8,7 +8,7 @@ step2:make
 
 step3:gcc char_main.c -o char_main  
 
-step4:dmesg  //watch the major number  
+step4:dmesg  (watch the major number)  
 
 step5:According the major number to set the character device   
 
